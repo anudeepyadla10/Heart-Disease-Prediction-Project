@@ -1,5 +1,6 @@
 # Heart-Disease-Prediction-Project
 Problem Identification:
+
 Heart disease is one of the leading causes of death worldwide, with early detection being critical for effective treatment and prevention. Traditional diagnostic methods can be time-consuming, costly, and prone to human error, leading to delayed or incorrect diagnoses. A more efficient, automated, and data-driven approach is needed to predict heart disease risk accurately.
 
 Solution:
