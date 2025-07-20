@@ -1,4 +1,4 @@
- Heart Disease Prediction using Python
+# Heart Disease Prediction using Python
 
 This project aims to predict the presence of heart disease in patients using supervised machine learning algorithms. It involves detailed exploratory data analysis (EDA), data preprocessing, and model evaluation, making it a great example of data analysis with Python combined with machine learning.
 
